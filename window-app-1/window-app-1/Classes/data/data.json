@@ -1,0 +1,6 @@
+{
+	"contacts": [
+					{name:"Name 1", email:"email@email.com", phone:"552788292164"},
+					{name:"Name 2", email:"email2@email2.com", phone:"552788292164"}
+				]
+}
